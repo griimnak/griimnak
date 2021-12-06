@@ -17,8 +17,10 @@ I used to code a lot more, but these days I tend to lurk.
 <ul>
   <li>🔗<a href="https://www.spigotmc.org/resources/authors/griimnak.618015/" target="_blank">Spigot</a></li>
   <li>🔗<a href="https://devbest.com/members/griimnak.35695/#about" target="_blank">Devbest</a></li>
+  <li>🔗<a href="https://www.mpgh.net/forum/member.php?u=3524339" target="_blank">MPGH</a></li>
   <li>🔗<a href="http://forum.ragezone.com/members/2000177240.html?s=fd61cd0187716c1db63438afbd48e7ce" target="_blank">RageZone</a></li>
   <li>🔗<a href="https://codepen.io/griimnak/" target="_blank">Codepen</a></li>
+  <li>🔗<a href="https://hackforums.net/marketcp.php?action=profile&uid=2556257" target="_blank">HF</a></li>
 </ul>
 
 #
