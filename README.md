@@ -20,7 +20,9 @@ I used to code a lot more, but these days I tend to lurk.
   <li>🔗<a href="https://www.mpgh.net/forum/member.php?u=3524339" target="_blank">MPGH</a></li>
   <li>🔗<a href="http://forum.ragezone.com/members/2000177240.html?s=fd61cd0187716c1db63438afbd48e7ce" target="_blank">RageZone</a></li>
   <li>🔗<a href="https://codepen.io/griimnak/" target="_blank">Codepen</a></li>
-  <li>🔗<a href="https://hackforums.net/marketcp.php?action=profile&uid=2556257" target="_blank">HF</a></li>
+  <li>🔗<a href="https://hackforums.net/marketcp.php?action=profile&uid=2556257" target="_blank">HackForums</a></li>
+  <li>🔗<a href="https://sinister.ly/User-griimnak" target="_blank">Sinister.ly</a></li>
+  <li>🔗<a href="https://breached.co/User-griimnak" target="_blank">BreachForums</a></li>
 </ul>
 
 #
